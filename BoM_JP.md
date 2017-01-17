@@ -8,7 +8,7 @@ These are the parts you will need to assemble the incubator:
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|12V 80 mm Axial Fan|[Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13244)|3.25|
+|1|1|80 mm ファン(PC用)|[RS Online](http://jp.rs-online.com/web/p/axial-fans/7932418/),[ツクモ](http://shop.tsukumo.co.jp/goods/4937925913084/?cid=Google_S111101),[Monotaro](https://www.monotaro.com/p/7602/6666/?gclid=Cj0KEQiAnvfDBRCXrabLl6-6t-0BEiQAW4SRUMn0TRBx46WJ0-AA60Il2e-1WXhYKi7BNeRlu53ahHcaAkHm8P8HAQ&utm_medium=cpc&utm_source=Adwords&cm_mmc=Adwords-_-cpc-_-PLA-_-76026666&ef_id=WD5JDQAAAFehQ9Pn:20170117083148:s)|3.25|
 |2|1|Power switch|[Farnell](http://nl.farnell.com/multicomp/jr1819-rohs-psg01769/socket-low-voltage-2-1mm-chassis/dp/1216726), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.85|
 |3|1|Waterproof 10K NTC thermistor|[Hackerstore](https://www.hackerstore.nl/Artikel/298), [Adafruit](https://www.adafruit.com/product/372)|2.95|
 |4|1|I2C LCD display|[iPrototype](https://iprototype.nl/products/components/led-lcd/lcd16x2-I2C-BL), [Hackerstore](https://www.hackerstore.nl/Artikel/82)|8.95|
