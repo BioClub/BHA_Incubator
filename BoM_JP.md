@@ -1,7 +1,6 @@
-## Bill of Materials
+## 部品リスト
 
-Make sure you have an Arduino or equivalent microprocessor, big enough sheets of 3mm material to cut the design from and plenty of wires and M3 10 screws and nuts to assemble all the parts.
-
+Arduinoと3mm アクリル板とM3ナットが必要です
 ### Components that are needed to assemble everything on a breadboard
 
 These are the parts you will need to assemble the incubator:
