@@ -8,7 +8,7 @@ These are the parts you will need to assemble the incubator:
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|80 mm ファン(PC用)|[RS Online](http://jp.rs-online.com/web/p/axial-fans/7932418/),[ツクモ](http://shop.tsukumo.co.jp/goods/4937925913084/?cid=Google_S111101),[Monotaro](https://www.monotaro.com/p/7602/6666/?gclid=Cj0KEQiAnvfDBRCXrabLl6-6t-0BEiQAW4SRUMn0TRBx46WJ0-AA60Il2e-1WXhYKi7BNeRlu53ahHcaAkHm8P8HAQ&utm_medium=cpc&utm_source=Adwords&cm_mmc=Adwords-_-cpc-_-PLA-_-76026666&ef_id=WD5JDQAAAFehQ9Pn:20170117083148:s)|3.25|
-|2|1|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/)|¥107|
+|2|1|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/),[Monotaro](https://www.monotaro.com/g/00163769/?t.q=%83%8D%83b%83J%81%5B%83X%83C%83b%83%60)|¥107|
 |3|1|防水 10kΩ NTK サーミスタ|[RS Online](http://jp.rs-online.com/web/p/thermistors/7062759/)|2.95|
 |4|1|I2C LCD ディスプレイ|[RS Online](http://jp.rs-online.com/web/p/lcd-monochrome-displays/7436134/)|8.95|
 |5|2|MOSFET|[RS Online](http://jp.rs-online.com/web/p/mosfet-transistors/7725412/)|¥25|
