@@ -14,12 +14,12 @@ These are the parts you will need to assemble the incubator:
 |4|1|I2C LCD ディスプレイ|[RS Online](http://jp.rs-online.com/web/p/lcd-monochrome-displays/7436134/)|8.95|
 |5|2|MOSFET|[RS Online](http://jp.rs-online.com/web/p/mosfet-transistors/7725412/)|0.60|
 |6|4|10K 抵抗|[Farnell](http://nl.farnell.com/te-connectivity/cfr16j10k/resistor-carbon-10k-0-25w-5/dp/2329474), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=7016)|0.12|
-|7|1|Diode|[Farnell](http://nl.farnell.com/on-semiconductor/1n4004rlg/rectifier-1a-400v-axial/dp/2533160), [iPrototype](https://iprototype.nl/products/components/overige/diode), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=10717)|0.19|
-|8|2|Button|[Farnell](http://nl.farnell.com/omron-electronic-components/b3f4155/switch-projected-12x12x7-3-260gf/dp/1960977?ost=OMRON+ELECTRONIC+COMPONENTS++B3F4155&selectedCategoryId=&categoryNameResp=Alle%2Bcategorie%25C3%25ABn&searchView=table&iscrfnonsku=false), [iPrototype](https://iprototype.nl/products/components/buttons-switches/momentary-push-button), [Sparkfun](https://www.sparkfun.com/products/9190)|0.47|
+|7|1|ダイオード|[Farnell](http://nl.farnell.com/on-semiconductor/1n4004rlg/rectifier-1a-400v-axial/dp/2533160), [iPrototype](https://iprototype.nl/products/components/overige/diode), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=10717)|0.19|
+|8|2|ボタン|[Farnell](http://nl.farnell.com/omron-electronic-components/b3f4155/switch-projected-12x12x7-3-260gf/dp/1960977?ost=OMRON+ELECTRONIC+COMPONENTS++B3F4155&selectedCategoryId=&categoryNameResp=Alle%2Bcategorie%25C3%25ABn&searchView=table&iscrfnonsku=false), [iPrototype](https://iprototype.nl/products/components/buttons-switches/momentary-push-button), [Sparkfun](https://www.sparkfun.com/products/9190)|0.47|
 |9|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|12.50|
 |10|1|Jack Adapter|[Farnell](http://nl.farnell.com/multicomp/jr1819-rohs-psg01769/socket-low-voltage-2-1mm-chassis/dp/1216726), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14342)|0.85|
 |11|1|Heating foil|[Floris.cc](https://www.floris.cc/shop/en/general-components/514-heating-pad-5x10cm.html), [Sparkfun](https://www.sparkfun.com/products/11288), [Conrad](https://www.conrad.nl/nl/thermo-verwarmingsfolie-zelfklevend-12-vdc-12-vac-22-w-veiligheidstype-ipx4-90-mm-1216623.html)|4.50|
-|12|1|Breadboard|[Farnell](http://nl.farnell.com/pro-signal/psg-bb-400/breadboard-400-pin-white/dp/2503765). [iPrototype](https://iprototype.nl/products/accessoires/breadboards-prints/halfbreadboard)|2.56|
+|12|1|ブレッドボード|[Farnell](http://nl.farnell.com/pro-signal/psg-bb-400/breadboard-400-pin-white/dp/2503765). [iPrototype](https://iprototype.nl/products/accessoires/breadboards-prints/halfbreadboard)|2.56|
 
 *Estimate total*: EUR 43.53
 
