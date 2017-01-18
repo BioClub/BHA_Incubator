@@ -15,7 +15,7 @@ These are the parts you will need to assemble the incubator:
 |5|2|MOSFET|[RS Online](http://jp.rs-online.com/web/p/mosfet-transistors/7725412/)|¥25|
 |6|4|10K 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/4911645/)|0.12|
 |7|1|ダイオード|[RS Online](http://jp.rs-online.com/web/p/rectifier-schottky-diodes/4017383/)|0.19|
-|8|2|ボタン|[RS Online](http://jp.rs-online.com/web/p/tactile-switches/7581922/),[Amazon](http://amzn.asia/4iplrSu)|0.47|
+|8|2|タクトスイッチ|[RS Online](http://jp.rs-online.com/web/p/tactile-switches/7581922/),[Amazon](http://amzn.asia/4iplrSu),[Monotaro](https://www.monotaro.com/g/01030421/?t.q=%83%5E%83N%83g%83X%83C%83b%83%60)|0.47|
 |9|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|12.50|
 |10|1|Jack Adapter|[Farnell](http://nl.farnell.com/multicomp/jr1819-rohs-psg01769/socket-low-voltage-2-1mm-chassis/dp/1216726), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14342)|0.85|
 |11|1|Heating foil|[Floris.cc](https://www.floris.cc/shop/en/general-components/514-heating-pad-5x10cm.html), [Sparkfun](https://www.sparkfun.com/products/11288), [Conrad](https://www.conrad.nl/nl/thermo-verwarmingsfolie-zelfklevend-12-vdc-12-vac-22-w-veiligheidstype-ipx4-90-mm-1216623.html)|4.50|
