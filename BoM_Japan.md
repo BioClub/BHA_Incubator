@@ -24,8 +24,7 @@ These are the parts you will need to assemble the incubator:
 
 ### Components that are needed on top of the Biohack Board
 
-In case you are using the [**BioHack Board**](https://github.com/BioHackAcademy/BioHackBoard) Arduino shield, you need the following parts:
-
+[**BioHack Board**](https://github.com/BioHackAcademy/BioHackBoard) Arduino シールドを使用する場合:
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
