@@ -7,13 +7,12 @@ These are the parts you will need to assemble the incubator:
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|80 mm ファン(PC用)|[RS Online](http://jp.rs-online.com/web/p/axial-fans/7932418/),[ツクモ](http://shop.tsukumo.co.jp/goods/4937925913084/?cid=Google_S111101),[Monotaro](https://www.monotaro.com/p/7602/6666/?gclid=Cj0KEQiAnvfDBRCXrabLl6-6t-0BEiQAW4SRUMn0TRBx46WJ0-AA60Il2e-1WXhYKi7BNeRlu53ahHcaAkHm8P8HAQ&utm_medium=cpc&utm_source=Adwords&cm_mmc=Adwords-_-cpc-_-PLA-_-76026666&ef_id=WD5JDQAAAFehQ9Pn:20170117083148:s)|3.25|
-|2|1|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/),[Monotaro](https://www.monotaro.com/g/00163769/?t.q=%83%8D%83b%83J%81%5B%83X%83C%83b%83%60)|¥107|
+|1|1|80 mm ファン(PC用)|[Tsukumo](http://shop.tsukumo.co.jp/goods/4937925913084/), [Monotaro](https://www.monotaro.com/g/00866020/)|475|
 |3|1|防水 10kΩ NTK サーミスタ|[RS Online](http://jp.rs-online.com/web/p/thermistors/7062759/)|2.95|
 |4|1|I2C LCD ディスプレイ|[RS Online](http://jp.rs-online.com/web/p/lcd-monochrome-displays/7436134/),[Akizuki](http://akizukidenshi.com/catalog/g/gK-08896/)|8.95|
 |5|2|MOSFET|[RS Online](http://jp.rs-online.com/web/p/mosfet-transistors/7725412/),[Akizuki](http://akizukidenshi.com/catalog/g/gI-08349/)|¥25|
 |6|4|10K 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/4911645/)|0.12|
-|7|1|ダイオード|[RS Online](http://jp.rs-online.com/web/p/rectifier-schottky-diodes/4017383/)|0.19|
+|7|1|ダイオード|[RS Online](http://jp.rs-online.com/web/p/rectifier-schottky-diodes/4017383/), [Monotaro](https://www.monotaro.com/g/01268572/)|249|
 |8|2|タクトスイッチ|[RS Online](http://jp.rs-online.com/web/p/tactile-switches/7581922/),[Amazon](http://amzn.asia/4iplrSu),[Monotaro](https://www.monotaro.com/g/01030421/?t.q=%83%5E%83N%83g%83X%83C%83b%83%60)|0.47|
 |9|1|7.5 W 電源|[Monotaro](https://www.monotaro.com/g/00013136/?t.q=dc%20%83A%83_%83v%83%5E%81%5B%207.5v),[Akizuki](http://akizukidenshi.com/catalog/g/gM-02194/)|12.50|
 |10|1|DC ジャック|[Monotaro](https://www.monotaro.com/g/00959124/?t.q=dc%20%83W%83%83%83b%83N)|0.85|
